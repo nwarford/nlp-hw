@@ -50,7 +50,9 @@ kPRESIDENT_DATA = {"train": [
   {"start": 2001, "stop": 2009, "name": "George W. Bush"},
   {"start": 2009, "stop": 2017, "name": "Barack Obama"},
   {"start": 2017, "stop": 2021, "name": "Donald J. Trump"},
-  {"start": 2021, "stop": 2025, "name": "Joseph R. Biden"}],
+  {"start": 2021, "stop": 2025, "name": "Joseph R. Biden"},
+  {"start": 2025, "stop": 2025, "name": "Donald J. Trump"}
+  ],
   "dev": [{"text": "Who was president on Wed Jan 25 06:20:00 2023?", "page": "Joseph R. Biden", "qanta_id":201},
           {"text": "Who was president on Sat May 23 02:00:00 1982?", "page": "Ronald Reagan", "qanta_id":202},
           {"text": "Who was president on Wed Mar 01 04:23:40 2023?", "page": 'Joseph R. Biden', "qanta_id":203},
