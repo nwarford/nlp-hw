@@ -1,5 +1,5 @@
 # nlp-hw
-Homework for NLP course at University of Maryland
+Homework for NLP course at Oberlin College
 
 Shared Data
 ==================
