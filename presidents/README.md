@@ -16,7 +16,7 @@ extra credit.
 What you have to do
 ===================
 
-The PresidentGusser (in `president_guesser.py`) takes a question and
+The PresidentGuesser (in `president_guesser.py`) takes a question and
 returns a guess of who the president was.  You need to extract what
 time the question is asking about and return the name of the
 appropriate US president.
